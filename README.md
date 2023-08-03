@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndourc.
-- 👀 I’m interested in Mathematics, Statistics, Computer Science and Philosophy.
+- Autodidact Researcher | Aspiring ML Engineer | Productivity Advocate | Mobile App Dev
 - 📫 How to reach me - email: ndou.research@gmail.com.
 
 <!---
