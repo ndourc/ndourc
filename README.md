@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ndourc.
-- Autodidact Researcher | Aspiring ML Engineer | Productivity Advocate | Mobile App Dev
+- 👋 Hey, I’m @ndourc.
+- Autodidact Researcher & Aspiring Software Engineer | PowerShell & Productivity Enthusiast |
+- Django & Flutter Dev | Debate & Public Speaking Tab Master
 - 📫 How to reach me - email: ndou.research@gmail.com.
 
 <!---
