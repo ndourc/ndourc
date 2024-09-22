@@ -1,6 +1,7 @@
 - 👋 Hey, I’m @ndourc.
-- Autodidact Researcher & Aspiring Software Engineer | PowerShell & Productivity Enthusiast |
-- Django & Flutter Dev | Debate & Public Speaking Tab Master
+- Autodidact Researcher | Junior Software Developer
+- PowerShell & Productivity Enthusiast | Django & Flutter Dev
+- Exploring that which truly interests me
 - 📫 How to reach me - email: ndou.research@gmail.com.
 
 <!---
