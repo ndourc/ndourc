@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SaaS Platform for Social Care Providers 🤝](https://github.com/ndourc/deque-hr-project)
 
-- 🌱 I’m currently learning **TypeScript, Golang and FastAPI**
+- 🌱 I’m currently learning **TypeScript, NextJS Golang and FastAPI**
 
 - 👯 I’m looking to collaborate on **Django , Flutter and AI projects**
 
