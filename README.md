@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/ndou_rc" target="blank"><img src="https://img.shields.io/twitter/follow/ndou_rc?logo=twitter&style=for-the-badge" alt="ndou_rc" /></a> </p>
 
-- 🔭 I’m currently working on [SaaS Platform for Social Care Providers 🤝](https://github.com/ndourc/deque-hr-project)
+- 🔭 I’m currently working on [Remote System Health Monitoring Tool 🤝](https://github.com/ndourc/pulse-magenta-backend)
 
-- 🌱 I’m currently learning **TypeScript, NextJS Golang and FastAPI**
+- 🌱 I’m currently learning **TypeScript, NextJS, Rust, and Golang**
 
-- 👯 I’m looking to collaborate on **Django , Flutter and AI projects**
+- 👯 I’m looking to collaborate on **Django , FastAPI, Flutter and AI projects**
 
 - 📝 I regularly write articles on [https://ndouresearch.medium.com](https://ndouresearch.medium.com)
 
-- 💬 Ask me about **Django, Flutter and PowerShell**
+- 💬 Ask me about **Django, Flutter, PowerShell and Mathematics**
 
 - 📫 How to reach me **ndou.research@gmail.com**
 
