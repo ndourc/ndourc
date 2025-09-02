@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ndou_rc" target="blank"><img src="https://img.shields.io/twitter/follow/ndou_rc?logo=twitter&style=for-the-badge" alt="ndou_rc" /></a> </p>
 
-- 🔭 I’m currently working on [Remote System Health Monitoring Tool 🤝](https://github.com/ndourc/pulse-magenta-backend)
+- 🔭 I’m currently working on [Remote System Health Monitoring Tool 🤝](https://pulse-magenta-frontend.vercel.app)
 
 - 🌱 I’m currently learning **TypeScript, NextJS, Rust, and Golang**
 
