@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Remote System Health Monitoring Tool 🤝](https://pulse-magenta-frontend.vercel.app)
 
-- 🌱 I’m currently learning **TypeScript, NextJS, Rust, and Golang**
+- 🌱 I’m currently learning **DevOps, Golang and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Django , FastAPI, Flutter and AI projects**
+- 👯 I’m looking to collaborate on **Low-level engineering and AI projects**
 
 - 📝 I regularly write articles on [https://ndouresearch.medium.com](https://ndouresearch.medium.com)
 
