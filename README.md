@@ -47,7 +47,7 @@ Read how it's built: [magentactl.com/publications](https://magentactl.com/public
 ### Also
 
 - Writing on [Medium](https://ndouresearch.medium.com) and [dev.to](https://dev.to/ndourc)
-- Learning: DevOps, Go and Kubernetes
+- Learning: Mathematics (more!), Cybersecurity, Distributed Systems and Quantum Computing
 - Open to collaborating on low-level engineering, security and AI projects
 
 ### Toolbox
